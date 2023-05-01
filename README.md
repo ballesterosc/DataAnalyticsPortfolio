@@ -3,7 +3,7 @@ A compilation of data analytic projects to showcase technical skills and knowled
 
 Contents:
 - SQL: Examples of constructing SQL queries for simulated business cases.
+- Python: Exploratory analysis with data management and visualization in python.
 
 Work In Progress:
-- New projects
-    - Python projects utilizing different packages; pandas, matplotlib, etc.
+    - Other python projects coming soon.
